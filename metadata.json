@@ -1,0 +1,5 @@
+{
+  "name": "Cloud Dedupe: Data Redundancy Removal System",
+  "description": "A production-ready system to identify, classify, and prevent duplicate data entries using cryptographic hashing and cloud-scale validation logic.",
+  "requestFramePermissions": []
+}
